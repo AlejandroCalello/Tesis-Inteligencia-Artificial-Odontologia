@@ -69,9 +69,6 @@ Business Intelligence aplicado a salud
 
 Transformación digital sector salud
 
-📄 Documento Completo
-
-Adjunto el trabajo académico en formato PDF.
 
 
 
