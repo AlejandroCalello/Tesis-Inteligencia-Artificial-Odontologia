@@ -2,62 +2,79 @@
 Implementación de Inteligencia Artificial en una Clínica Odontológica
 🦷 Transformación Digital de una Clínica Odontológica Tradicional
 📌 Contexto
-
 Proyecto académico desarrollado en la Especialización en Gestión de Sistemas de Información de la facultad de Ingenieria (USAL / SUNY).
 
-El trabajo analiza procesos administrativos, clínicos y operativos, proponiendo una arquitectura tecnológica que permita mejorar eficiencia, trazabilidad y calidad del servicio.
+ Rediseño integral de una clínica odontológica tradicional hacia un modelo de gestión digital, incorporando herramientas de análisis de datos e Inteligencia Artificial.
 
-🎯 Problema Detectado
+El trabajo aborda la transformación desde una perspectiva estratégica, tecnológica y organizacional.
 
-La clínica presentaba:
+🎯 Problema Identificado
 
-Procesos manuales
+La clínica operaba bajo un modelo tradicional caracterizado por:
 
-Uso limitado de datos clínicos
+Procesos administrativos manuales
 
-Falta de indicadores de gestión
+Escasa digitalización de historias clínicas
 
-Gestión administrativa no integrada
+Ausencia de indicadores de gestión (KPIs)
 
-Baja automatización de turnos y seguimiento de pacientes
+Baja explotación de datos clínicos
 
-🔎 Diagnóstico Estratégico
+Falta de integración entre áreas administrativas y asistenciales
+
+🔎 Diagnóstico y Análisis
 
 Se realizó:
 
-Relevamiento de procesos
+Relevamiento de procesos operativos y administrativos
 
 Identificación de cuellos de botella
 
 Análisis de flujo de información
 
-Evaluación de riesgos operativos
+Evaluación de riesgos y oportunidades de mejora
 
-💡 Propuesta de Transformación
+Propuesta de indicadores clave para la toma de decisiones
 
-Diseño conceptual de un ecosistema digital compuesto por:
+💡 Propuesta de Transformación Digital
 
-Sistema de gestión clínica
+Se diseñó un modelo de evolución hacia una clínica digital basado en:
+
+Sistema de gestión clínica integrado
 
 Base de datos estructurada de pacientes
 
-Dashboards de indicadores (KPIs)
+Digitalización de historias clínicas
 
-Integración con herramientas de análisis predictivo
+Dashboards de Business Intelligence para seguimiento de KPIs
 
 Automatización de turnos y recordatorios
+
+Arquitectura preparada para incorporar modelos predictivos de IA
+
+🤖 Rol de la Inteligencia Artificial
+
+La implementación contempla la utilización futura de modelos de IA para:
+
+Análisis predictivo de tratamientos
+
+Detección de patrones en historiales clínicos
+
+Optimización de agenda y recursos
+
+Generación de reportes inteligentes para la toma de decisiones
 
 📊 Impacto Esperado
 
 Reducción de tiempos administrativos
 
+Mejora en eficiencia operativa
+
 Mayor trazabilidad clínica
 
-Mejora en toma de decisiones
+Decisiones basadas en datos
 
-Incremento en satisfacción del paciente
-
-Base preparada para implementar modelos de Inteligencia Artificial
+Preparación para escalabilidad tecnológica
 
 🛠 Enfoque Metodológico
 
@@ -67,8 +84,7 @@ Rediseño de procesos
 
 Business Intelligence aplicado a salud
 
-Transformación digital sector salud
-
+Estrategia de transformación digital
 
 
 
