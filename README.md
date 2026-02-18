@@ -3,7 +3,7 @@ Implementación de Inteligencia Artificial en una Clínica Odontológica
 🦷 Transformación Digital de una Clínica Odontológica Tradicional
 📌 Contexto
 
-Proyecto de especialización orientado al rediseño integral de una clínica odontológica tradicional hacia un modelo de gestión digital.
+Proyecto académico desarrollado en la Especialización en Gestión de Sistemas de Información de la facultad de Ingenieria (USAL / SUNY).
 
 El trabajo analiza procesos administrativos, clínicos y operativos, proponiendo una arquitectura tecnológica que permita mejorar eficiencia, trazabilidad y calidad del servicio.
 
