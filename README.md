@@ -73,13 +73,6 @@ Transformación digital sector salud
 
 Adjunto el trabajo académico en formato PDF.
 
-🧠 Por qué esto es potente para vos
 
-Esto te posiciona como:
-
-✔ Perfil estratégico
-✔ Transformador digital
-✔ Puente entre negocio y tecnología
-✔ Analista de procesos con visión de datos
 
 
