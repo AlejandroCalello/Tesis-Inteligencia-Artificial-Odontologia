@@ -82,4 +82,4 @@ Esto te posiciona como:
 ✔ Puente entre negocio y tecnología
 ✔ Analista de procesos con visión de datos
 
-Mucho más fuerte que “hice una tesis”.
+
