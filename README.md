@@ -4,8 +4,6 @@ Implementación de Inteligencia Artificial en una Clínica Odontológica
 📌 Contexto
 Proyecto académico desarrollado en la Especialización en Gestión de Sistemas de Información de la facultad de Ingenieria (USAL / SUNY).
 
- Rediseño integral de una clínica odontológica tradicional hacia un modelo de gestión digital, incorporando herramientas de análisis de datos e Inteligencia Artificial.
-
 El trabajo aborda la transformación desde una perspectiva estratégica, tecnológica y organizacional.
 
 🎯 Problema Identificado
