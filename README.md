@@ -1,89 +1,31 @@
 # Tesis-IA-Odontologia
-Implementación de Inteligencia Artificial en una Clínica Odontológica
-🦷 Transformación Digital de una Clínica Odontológica Tradicional
-📌 Contexto
-Proyecto académico desarrollado en la Especialización en Gestión de Sistemas de Información de la facultad de Ingenieria (USAL / SUNY).
+Implementación de Inteligencia Artificial a una Clínica de Odontología
+Autor: Alejandro Alberto Calello
 
-El trabajo aborda la transformación desde una perspectiva estratégica, tecnológica y organizacional.
+Tesis de Grado
+🏛️ Marco Institucional
 
-🎯 Problema Identificado
+Este proyecto de investigación fue desarrollado bajo la colaboración académica entre:
 
-La clínica operaba bajo un modelo tradicional caracterizado por:
+    Universidad de El Salvador (UES)
 
-Procesos administrativos manuales
+    Universidad Estatal de Nueva York (SUNY)
 
-Escasa digitalización de historias clínicas
+    Facultad de Ingeniería
 
-Ausencia de indicadores de gestión (KPIs)
+Esta cooperación multidisciplinaria permitió integrar los conocimientos odontológicos con las capacidades técnicas de la ingeniería para la aplicación práctica de la Inteligencia Artificial.
+📝 Resumen del Proyecto
 
-Baja explotación de datos clínicos
+El trabajo se centra en la Implementación de Inteligencia Artificial dentro del entorno de una clínica odontológica, analizando cómo la tecnología puede transformar el diagnóstico asistido por computadora, la gestión de datos de pacientes y la precisión en los tratamientos clínicos.
+🚀 Áreas de Enfoque
 
-Falta de integración entre áreas administrativas y asistenciales
+    Intersección Salud-Tecnología: Aplicación de modelos de IA en el ámbito dental.
 
-🔎 Diagnóstico y Análisis
+    Optimización Clínica: Mejora de procesos operativos y de diagnóstico.
 
-Se realizó:
+    Colaboración Internacional: Resultados de la sinergia entre instituciones de El Salvador y Nueva York.
 
-Relevamiento de procesos operativos y administrativos
+📁 Archivos
 
-Identificación de cuellos de botella
-
-Análisis de flujo de información
-
-Evaluación de riesgos y oportunidades de mejora
-
-Propuesta de indicadores clave para la toma de decisiones
-
-💡 Propuesta de Transformación Digital
-
-Se diseñó un modelo de evolución hacia una clínica digital basado en:
-
-Sistema de gestión clínica integrado
-
-Base de datos estructurada de pacientes
-
-Digitalización de historias clínicas
-
-Dashboards de Business Intelligence para seguimiento de KPIs
-
-Automatización de turnos y recordatorios
-
-Arquitectura preparada para incorporar modelos predictivos de IA
-
-🤖 Rol de la Inteligencia Artificial
-
-La implementación contempla la utilización futura de modelos de IA para:
-
-Análisis predictivo de tratamientos
-
-Detección de patrones en historiales clínicos
-
-Optimización de agenda y recursos
-
-Generación de reportes inteligentes para la toma de decisiones
-
-📊 Impacto Esperado
-
-Reducción de tiempos administrativos
-
-Mejora en eficiencia operativa
-
-Mayor trazabilidad clínica
-
-Decisiones basadas en datos
-
-Preparación para escalabilidad tecnológica
-
-🛠 Enfoque Metodológico
-
-Gestión de Sistemas de Información
-
-Rediseño de procesos
-
-Business Intelligence aplicado a salud
-
-Estrategia de transformación digital
-
-
-
+    Ver Tesis Completa (PDF)
 
