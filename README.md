@@ -11,7 +11,7 @@ El programa brindó el marco conceptual y técnico necesario para abordar la rec
 
 📌 Enfoque del Proyecto
 
-La tesis, realizada por Alejandro Calello, aborda la transformación de una clínica odontológica tradicional (modelo analógico) hacia un modelo digital inteligente, mediante:
+El trabajo realizado por Calello, aborda la transformación de una clínica odontológica tradicional (modelo analógico) hacia un modelo digital inteligente, mediante:
 
 Digitalización de historias clínicas
 
