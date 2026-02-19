@@ -2,7 +2,7 @@
 Transformación de lo Analógico a lo Digital
 🏛️ Marco Institucional
 
-El presente proyecto fue desarrollado en el marco de la Tesis de la Especialización en Gestión de Sistemas de Información, realizada por Alejandro Calello en la Universidad del Salvador, en cooperación académica con la Universidad Estatal de Nueva York.
+El presente proyecto fue desarrollado en el marco de la Tesis de la Especialización en Gestión de Sistemas de Información, realizada por Calello Alejandro en la Universidad del Salvador, en cooperación académica con la Universidad Estatal de Nueva York.
 
 Esta formación de posgrado, con enfoque interdisciplinario, permitió integrar conocimientos de gestión, ingeniería y tecnología, incorporando las últimas tendencias en transformación digital, automatización de procesos, análisis de datos e Inteligencia Artificial aplicada a organizaciones tradicionales.
 
