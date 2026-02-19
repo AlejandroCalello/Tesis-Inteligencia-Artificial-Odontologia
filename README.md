@@ -1,4 +1,4 @@
-# Tesis-IA-Odontologia
+# Inteligencia Artificial ODONTOLOGIA
 # 🎓 Tesis de Grado
 
 ## 🏛️ Marco Institucional
