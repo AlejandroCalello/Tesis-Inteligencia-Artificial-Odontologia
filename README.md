@@ -1,32 +1,41 @@
 # IA- ODONTOLOGIA - Calello Alejandro
-# 🎓 Tesis de Grado
+Transformación de lo Analógico a lo Digital
+Autor: Alejandro Calello 🎓
+🏛️ Marco Institucional
 
-## 🏛️ Marco Institucional
+Este proyecto de investigación fue desarrollado en el marco de una colaboración académica internacional entre:
 
-Este proyecto de investigación fue desarrollado bajo la colaboración académica entre:
+Universidad del Salvador – Facultad de Ingeniería
 
-- **Universidad del Salvador (USAL)** – Facultad de Ingeniería  
-- **Universidad Estatal de Nueva York (SUNY)**  
+Universidad Estatal de Nueva York
 
-Esta cooperación multidisciplinaria permitió integrar los conocimientos odontológicos con las capacidades técnicas de la ingeniería para la aplicación práctica de la Inteligencia Artificial.
+Esta cooperación multidisciplinaria permitió integrar conocimientos del ámbito odontológico tradicional con herramientas avanzadas de ingeniería y análisis de datos, orientadas a la aplicación práctica de Inteligencia Artificial.
 
----
+📌 Enfoque del Proyecto
 
-## 📝 Resumen del Proyecto
+La tesis, realizada por Alejandro Calello, aborda la transformación de una clínica odontológica tradicional (modelo analógico) hacia un modelo digital inteligente, mediante:
 
-El trabajo se centra en la implementación de Inteligencia Artificial dentro del entorno de una clínica odontológica, analizando cómo la tecnología puede transformar:
+Digitalización de historias clínicas
 
-- El diagnóstico asistido por computadora  
-- La gestión de datos de pacientes  
-- La precisión en los tratamientos clínicos  
+Automatización de procesos administrativos
 
----
+Análisis predictivo aplicado a diagnósticos
 
-## 🚀 Áreas de Enfoque
+Implementación de herramientas de IA para optimizar la toma de decisiones
 
-- **Intersección Salud-Tecnología:** Aplicación de modelos de IA en el ámbito dental.  
-- **Optimización Clínica:** Mejora de procesos operativos y de diagnóstico.  
-- **Colaboración Internacional:** Resultados de la sinergia entre instituciones de Argentina y Nueva York.  
+🚀 Objetivo Estratégico
+
+El trabajo no solo propone incorporar tecnología, sino reconfigurar el modelo operativo de la clínica, migrando de procesos manuales y fragmentados a un ecosistema digital integrado, eficiente y escalable.
+
+Este enfoque responde a una demanda creciente del mercado laboral en áreas como:
+
+Transformación digital
+
+Data Analytics aplicado a salud
+
+Automatización de procesos
+
+Implementación de IA en organizaciones tradicionales
 
 ---
 
