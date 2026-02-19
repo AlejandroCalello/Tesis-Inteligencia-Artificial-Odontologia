@@ -29,4 +29,4 @@ El trabajo se centra en la Implementación de Inteligencia Artificial dentro del
 📁 Archivos
 
     Ver Tesis Completa (PDF)
-
+Calello Alejandro Alberto-Implementacion de Inteligencia Artificial a una Clinica de Odontologia-2.pdf
