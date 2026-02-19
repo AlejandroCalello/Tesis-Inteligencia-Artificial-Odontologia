@@ -1,4 +1,4 @@
-# Inteligencia Artificial ODONTOLOGIA
+# IA- ODONTOLOGIA - Calello Alejandro
 # 🎓 Tesis de Grado
 
 ## 🏛️ Marco Institucional
