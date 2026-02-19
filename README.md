@@ -7,11 +7,11 @@ Tesis de Grado
 
 Este proyecto de investigación fue desarrollado bajo la colaboración académica entre:
 
-    Universidad de El Salvador (UES)
+    Universidad de El Salvador (USAL) Facultad de Ingeniería
 
     Universidad Estatal de Nueva York (SUNY)
 
-    Facultad de Ingeniería
+ 
 
 Esta cooperación multidisciplinaria permitió integrar los conocimientos odontológicos con las capacidades técnicas de la ingeniería para la aplicación práctica de la Inteligencia Artificial.
 📝 Resumen del Proyecto
