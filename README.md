@@ -28,5 +28,6 @@ El trabajo se centra en la Implementación de Inteligencia Artificial dentro del
 
 📁 Archivos
 
-    Ver Tesis Completa (PDF) https://github.com/AlejandroCalello/Tesis-Inteligencia-Artificial-Odontologia/blob/main/Calello%20Alejandro%20Alberto-Implementacion%20de%20Inteligencia%20Artificial%20a%20una%20Clinica%20de%20Odontologia-2.pdf
+    Ver Tesis Completa (PDF) 
+    https://github.com/AlejandroCalello/Tesis-Inteligencia-Artificial-Odontologia/blob/main/Calello%20Alejandro%20Alberto-Implementacion%20de%20Inteligencia%20Artificial%20a%20una%20Clinica%20de%20Odontologia-2.pdf
     
