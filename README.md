@@ -1,18 +1,24 @@
 # IA- ODONTOLOGIA - 
-Autor: Calello Alejandro Alberto
+👤 Autor: Calello Alejandro Alberto
 
-Proyecto de Tesis – Transformación Digital & IA aplicada a Salud
-Especialización en Gestión de Sistemas de Información – Universidad del Salvador (en cooperación con Universidad Estatal de Nueva York)
+🎓 Proyecto de Tesis – Transformación Digital & IA aplicada a Salud
+Especialización en Gestión de Sistemas de Información
+🏛 Universidad del Salvador (en cooperación con Universidad Estatal de Nueva York)
 
-Diseño e implementación de un modelo de transformación digital para clínica odontológica tradicional.
+🦷 Objetivo del Proyecto
+Diseño e implementación de un modelo de transformación digital para una clínica odontológica tradicional.
 
-Automatización de procesos administrativos y operativos.
+⚙️ Automatización
+Optimización de procesos administrativos y operativos.
 
-Aplicación de Inteligencia Artificial para optimización de gestión y análisis de datos.
+🤖 Inteligencia Artificial
+Aplicación de IA para mejora de gestión y análisis de datos clínicos.
 
-Integración de sistemas de información para mejora de eficiencia y toma de decisiones.
+🔗 Integración de Sistemas
+Unificación de sistemas de información para mayor eficiencia y mejor toma de decisiones.
 
-Enfoque en modernización tecnológica y mejora de experiencia del paciente.
+💡 Impacto
+Modernización tecnológica enfocada en eficiencia operativa y mejora de la experiencia del paciente.
 
 ## 📁 Archivos
 
