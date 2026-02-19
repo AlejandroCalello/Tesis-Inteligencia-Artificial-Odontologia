@@ -1,15 +1,13 @@
-# IA- ODONTOLOGIA - Calello Alejandro
+# IA- ODONTOLOGIA - 
 Transformación de lo Analógico a lo Digital
-Autor: Alejandro Calello 🎓
 🏛️ Marco Institucional
 
-Este proyecto de investigación fue desarrollado en el marco de una colaboración académica internacional entre:
+El presente proyecto fue desarrollado en el marco de la Especialización en Gestión de Sistemas de Información, realizada por Alejandro Calello en la Universidad del Salvador, en cooperación académica con la Universidad Estatal de Nueva York.
 
-Universidad del Salvador – Facultad de Ingeniería
+Esta formación de posgrado, con enfoque interdisciplinario, permitió integrar conocimientos de gestión, ingeniería y tecnología, incorporando las últimas tendencias en transformación digital, automatización de procesos, análisis de datos e Inteligencia Artificial aplicada a organizaciones tradicionales.
 
-Universidad Estatal de Nueva York
+El programa brindó el marco conceptual y técnico necesario para abordar la reconversión de una clínica odontológica desde un modelo analógico hacia un sistema digital inteligente, alineado con las demandas actuales del mercado tecnológico y los procesos de innovación organizacional.
 
-Esta cooperación multidisciplinaria permitió integrar conocimientos del ámbito odontológico tradicional con herramientas avanzadas de ingeniería y análisis de datos, orientadas a la aplicación práctica de Inteligencia Artificial.
 
 📌 Enfoque del Proyecto
 
