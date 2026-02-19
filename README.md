@@ -14,6 +14,7 @@ Este proyecto de investigación fue desarrollado bajo la colaboración académic
  
 
 Esta cooperación multidisciplinaria permitió integrar los conocimientos odontológicos con las capacidades técnicas de la ingeniería para la aplicación práctica de la Inteligencia Artificial.
+
 📝 Resumen del Proyecto
 
 El trabajo se centra en la Implementación de Inteligencia Artificial dentro del entorno de una clínica odontológica, analizando cómo la tecnología puede transformar el diagnóstico asistido por computadora, la gestión de datos de pacientes y la precisión en los tratamientos clínicos.
